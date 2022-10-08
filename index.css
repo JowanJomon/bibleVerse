@@ -19,7 +19,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url(/img/bg.jpg);
-  height: 720px;
+  height: 100vh;
   color: rgb(255, 255, 255);
 }
 .bible_container {
