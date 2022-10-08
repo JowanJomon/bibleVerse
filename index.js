@@ -1,12 +1,13 @@
 const verse = document.getElementById("verse");
 const author = document.getElementById("author");
+const logo = document.getElementById("logo");
 
 (function () {
   $(document).ready(function () {
     getVerse();
   });
 
-  $("button").click(function () {
+  $("#logo").click(function () {
     getVerse();
   });
 
