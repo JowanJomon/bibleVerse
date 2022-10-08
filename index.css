@@ -51,7 +51,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(/img/bg.jpg);
-    height: 600px;
+    height: 100vh;
     width: fit-content;
     color: rgb(255, 255, 255);
   }
