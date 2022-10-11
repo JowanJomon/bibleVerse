@@ -80,10 +80,11 @@ body {
     font-size: 1.5rem;
     margin-top: 2em;
   }
-  .refresh {
-    text-align: end;
-    font-size: 1.5rem;
+
+  h4 {
     font-family: var(--primary-font);
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.7rem;
+    margin-top: 1rem;
   }
 }
